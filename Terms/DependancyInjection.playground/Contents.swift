@@ -1,4 +1,4 @@
-import UIKit
+import Foundation
 
 // 의존성 주입 Dependancy Injection
 // https://www.youtube.com/watch?v=-n8allUvhw8
