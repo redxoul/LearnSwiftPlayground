@@ -13,6 +13,15 @@
       <FileRef
          location = "group:/Users/hongsol/Documents/GitHub/LearnSwiftPlayground/Foundation/Set.playground">
       </FileRef>
+      <FileRef
+         location = "group:String.playground">
+      </FileRef>
+      <FileRef
+         location = "group:Array.playground">
+      </FileRef>
+      <FileRef
+         location = "group:Dictionary.playground">
+      </FileRef>
    </Group>
    <Group
       location = "group:Terms"

@@ -1,3 +1,3 @@
 import Foundation
 
-var greeting = "Hello, playground"
+var greeting = "Sources의 내용을 확인"
