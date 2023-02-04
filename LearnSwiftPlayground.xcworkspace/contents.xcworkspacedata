@@ -22,6 +22,9 @@
       <FileRef
          location = "group:Dictionary.playground">
       </FileRef>
+      <FileRef
+         location = "group:Function.playground">
+      </FileRef>
    </Group>
    <Group
       location = "group:Terms"

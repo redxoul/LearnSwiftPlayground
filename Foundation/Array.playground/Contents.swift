@@ -1,4 +1,4 @@
-import UIKit
+import Foundation
 
 // Array(repeating repeatedValue: Element, count: Int)
 // 같은 값을 N개를 포함하는 배열을 생성할 때 유용한 생성자입니다.
