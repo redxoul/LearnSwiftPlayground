@@ -60,7 +60,7 @@ import Foundation
 
 public class Fish {
     
-    public func solution(_ A : [Int], _ B : [Int]) -> Int {
+    public class func solution(_ A : [Int], _ B : [Int]) -> Int {
         var alive = 0
         var downstreamStack:Array<Int> = []   // 하류(1)일 때 넣을 스택
         

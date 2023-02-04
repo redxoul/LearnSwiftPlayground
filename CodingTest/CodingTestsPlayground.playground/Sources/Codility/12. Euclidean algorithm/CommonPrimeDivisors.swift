@@ -55,7 +55,7 @@ import Foundation
  
  */
 
-class CommonPrimeDivisors {
+public class CommonPrimeDivisors {
     
     // 반복문으로 풀이
     public class func solution(_ A: [Int], _ B: [Int]) -> Int {

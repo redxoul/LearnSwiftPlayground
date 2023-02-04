@@ -71,7 +71,6 @@ public class CountNonDivisible {
 
         for a in A {
             element[a] += 1
-            print(a, element)
         }
         
         var result = Array(repeating: 0, count: A.count)

@@ -79,7 +79,7 @@ import Foundation
  
  */
 
-class FibFrog {
+public class FibFrog {
     
     public class func solution(_ A: [Int]) -> Int {
         

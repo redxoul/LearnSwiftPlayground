@@ -88,7 +88,7 @@ import Foundation
  
  */
 
-public class peaks {
+public class Peaks {
     
     public class func solution(_ A: [Int]) -> Int {
         // p:peak 봉우리. A[p]는 양옆(p-1, p+1)의 높이보다 높은 지점
