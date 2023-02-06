@@ -72,3 +72,6 @@ AbsDistinct.solution([-5, -3, -1, 0, 3, 6])
 CountDistinctSlices.solution(6, [3, 4, 5, 5, 2])
 CountTriangles.solution([10, 2, 5, 1, 8, 12])
 MinAbsSumOfTwo.solution([-8, 4, 5, -10, 3])
+
+// 16. Greedy algorithms
+MaxNonoverlappingSegments.solution([1, 3, 7, 9, 9], [5, 6, 8, 9, 10])
