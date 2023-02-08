@@ -27,6 +27,13 @@
       </FileRef>
    </Group>
    <Group
+      location = "container:"
+      name = "CocoaDesignPatterns">
+      <FileRef
+         location = "group:KeyValueObserving.playground">
+      </FileRef>
+   </Group>
+   <Group
       location = "group:Terms"
       name = "Terms">
       <FileRef
