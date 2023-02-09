@@ -76,3 +76,6 @@ MinAbsSumOfTwo.solution([-8, 4, 5, -10, 3])
 // 16. Greedy algorithms
 MaxNonoverlappingSegments.solution([1, 3, 7, 9, 9], [5, 6, 8, 9, 10])
 TieRopes.solution(4, [1, 2, 3, 4, 1, 1, 3])
+
+// 17. Dynamic Programming
+NumberSolitaire.solution([1, -2, 0, 9, -1, -2])
