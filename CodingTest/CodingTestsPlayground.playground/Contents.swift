@@ -79,3 +79,4 @@ TieRopes.solution(4, [1, 2, 3, 4, 1, 1, 3])
 
 // 17. Dynamic Programming
 NumberSolitaire.solution([1, -2, 0, 9, -1, -2])
+MinAbsSum.solution([1, 5, 2, -2])
