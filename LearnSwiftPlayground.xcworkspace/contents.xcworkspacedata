@@ -27,13 +27,6 @@
       </FileRef>
    </Group>
    <Group
-      location = "container:"
-      name = "CocoaDesignPatterns">
-      <FileRef
-         location = "group:KeyValueObserving.playground">
-      </FileRef>
-   </Group>
-   <Group
       location = "group:Terms"
       name = "Terms">
       <FileRef
@@ -51,7 +44,10 @@
       location = "group:CodingTest"
       name = "CodingTest">
       <FileRef
-         location = "group:CodingTestsPlayground.playground">
+         location = "group:ProgrammersPlayground.playground">
+      </FileRef>
+      <FileRef
+         location = "group:/Users/hongsol/Documents/GitHub/LearnSwiftPlayground/CodingTest/CodilityPlayground.playground">
       </FileRef>
    </Group>
 </Workspace>
