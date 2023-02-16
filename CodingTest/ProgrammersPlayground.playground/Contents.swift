@@ -15,3 +15,6 @@ var greeting = "Sources의 결과를 확인"
 
 없는숫자더하기.solution([1,2,3,4,6,7,8,0])
 없는숫자더하기.solution([5,8,4,0,6,7,9])
+
+음양더하기.solution([4,7,12], [true,false,true])
+음양더하기.solution([1,2,3], [false,false,true])
