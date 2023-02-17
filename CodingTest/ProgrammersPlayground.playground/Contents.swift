@@ -18,3 +18,6 @@ var greeting = "Sources의 결과를 확인"
 
 음양더하기.solution([4,7,12], [true,false,true])
 음양더하기.solution([1,2,3], [false,false,true])
+
+내적.solution([1, 2, 3, 4], [-3, -1, 0, 2])
+내적.solution([-1, 0, 1], [1, 0, -1])
