@@ -21,3 +21,5 @@ var greeting = "Sources의 결과를 확인"
 
 내적.solution([1, 2, 3, 4], [-3, -1, 0, 2])
 내적.solution([-1, 0, 1], [1, 0, -1])
+
+멀쩡한사각형.solution(8, 12)
