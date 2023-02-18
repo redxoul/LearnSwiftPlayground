@@ -23,3 +23,6 @@ var greeting = "Sources의 결과를 확인"
 내적.solution([-1, 0, 1], [1, 0, -1])
 
 멀쩡한사각형.solution(8, 12)
+
+소수만들기.solution([1, 2, 3, 4])
+소수만들기.solution([1, 2, 7, 6, 4])
