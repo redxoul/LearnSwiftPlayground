@@ -68,8 +68,6 @@ public class 다리를지나는트럭 {
             })
             
             seconds += 1
-            
-            print("seconds:\(seconds) / (\(onBridge.count):\(trucks.count)) / onBridge\(onBridge)")
         }
         
         return seconds
